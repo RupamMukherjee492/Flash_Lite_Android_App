@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flash Lite</string>
+    <string name="turnon">Turn ON</string>
+    <string name="turnoff">Turn Off</string>
+</resources>
